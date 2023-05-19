@@ -11,24 +11,24 @@
     <h2>Introduction to Dossier</h2>
     <p>Dossier is a tool made by DarkSignal that allows easier writing of NEM Mods.</p>
     <p>It mostly specializes in JSON editing and has features for auto completion.</p>
-    <p>Dossier had started production in summer of 2019 and was officially released on November of 2019</p>
-    <p>One year later it was repurposed for NEM Modding on the 17th of Augest, 2020</p>
+    <p>Dossier had started production in summer of 2019 and was officially released on November of 2019.</p>
+    <p>One year later it was repurposed for NEM Modding on the 17th of Augest, 2020.</p>
     <div class="image">
         <img src={dossier} alt="Dossier home page">
         <p class="caption">Dossier home page</p>
     </div>
     <h2>Installation</h2>
-    <p>Download Dossier from it's <a href="https://drive.google.com/file/d/1o2IyZLc5Psh6reOKZh-Gu7b5eGQU2E8B/view">google drive</a> and extract it</p>
+    <p>Download Dossier from it's <a href="https://drive.google.com/file/d/1o2IyZLc5Psh6reOKZh-Gu7b5eGQU2E8B/view">google drive</a> and extract it.</p>
     <p>Run the exe, that's it.</p>
     <h2>Notes</h2>
     <ul>
-        <li>Dossier saves files in it's db, you must drag the files from there into NEM</li>
+        <li>Dossier saves files in it's db, you must drag the files from there into NEM.</li>
         <li>As of 5/19/2023 Dossier is outdated and does not support map making or custom factions that the new NEM has.</li>
     </ul>
     <div class="sources">
         <h2>Sources</h2>
         <p>DarkSignal (thanks for answering my questions)</p>
-        <a href="https://darksignal.newgrounds.com/news/post/1110099">Newgrounds announcement of Dossier conversion to NEM</a>
+        <a href="https://darksignal.newgrounds.com/news/post/1110099">Newgrounds announcement of Dossier conversion to NEM.</a>
     </div>
 </div>
 <style>

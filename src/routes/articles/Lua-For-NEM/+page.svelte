@@ -11,18 +11,18 @@
     <h2>Introduction to Lua for NEM</h2>
     <p>Lua for NEM is a library that is built ontop of NEM that adds Lua support.</p>
     <p>Lua is a programming language that can be embeded into almost anything including NEM.</p>
-    <p>Lua for NEM is created by Twingamerdudes and was released on 4/23/2023</p>
+    <p>Lua for NEM is created by Twingamerdudes and was released on 4/23/2023.</p>
     <h2>Installation</h2>
     <blockquote>
         First drag the Assembly-CSharp.dll and MoonSharp.Interpreter.dll into (your M:PN folder)/Madness Project Nexus_Data/Managed folder.
 
         Then in you're custom stuff folder (if you do not have it, then you will need to install NEM, then go back to step 1) create a lua, cutscenes, and models folder inside of it.
-        <p>- Lua for NEM Documentation</p>
+        <p>- Lua for NEM Documentation.</p>
     </blockquote>
     <h2>Notes</h2>
     <ul>
-        <li>Lua for NEM has come out recently and may have bugs</li>
-        <li>Documentation has not been fully finished on the forums, so you must go to the <a href="https://github.com/Twingamerdudes/Lua-For-NEM/wiki">Github Wiki</a> to view it</li>
+        <li>Lua for NEM has come out recently and may have bugs.</li>
+        <li>Documentation has not been fully finished on the forums, so you must go to the <a href="https://github.com/Twingamerdudes/Lua-For-NEM/wiki">Github Wiki</a> to view it.</li>
     </ul>
 </div>
 <style>

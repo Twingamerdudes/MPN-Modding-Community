@@ -18,7 +18,7 @@
 
 <h1>Home</h1>
 <div class="content">
-    <p>Welcome fellow modder, here you will find resources to modding M:PN</p>
+    <p>Welcome fellow modder, here you will find resources to modding M:PN.</p>
     <p>Check out some of most useful articles here:</p>
     <ul>
         {#each formatAllArticles(articles) as article}

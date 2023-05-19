@@ -16,16 +16,18 @@
 
 <div class="content">
     <h2>What is NEM</h2>
-    <p>NEM is a tool made by XDefault and DarkSignal that allows modders to create their own characters, origins, maps, etc.</p>
-    <p>NEM was started by XDefault in late 2019 and has been getting constant updates as of {getDate()}</p>
-    <p>One year later in 2/19/2020 DarkSignal would start working on it. Using his knowledge of stat cards he managed to add custom characters, origins, etc. to NEM</p>
+    <p>NEM is a tool made by XDefault and DarkSignal that allows modders to create their own characters, origins, etc. As well as the ability to replace maps.</p>
+    <p>NEM was started by XDefault in late 2019 and has been getting constant updates as of {getDate()}.</p>
+    <p>One year later in 2/19/2020 DarkSignal would start working on it. Using his knowledge of stat cards he managed to add custom characters, origins, etc. to NEM.</p>
     <p>XDefault has also added freecam, keybinds, and has prototyped a unity scene editor for NEM</p>
     <h2>Installation</h2>
-    <p>To install NEM go to the it's <a href="https://drive.google.com/drive/folders/1COW73fbzlPJStjU-nJ1SMbNf8_SdW_Fm">google drive</a> and download the most recent build</p>
-    <p>Once have you haved downloaded the zip, extract it and drag the custom stuff folder into M:PN's data directory, than drag the dlls in (M:PN's data directory)/Managed</p>
-    <p>If everything worked you should see Not Enough Madness (version) in the bottom right of the main menu</p>
+    <p>To install NEM go to it's <a href="https://drive.google.com/drive/folders/1COW73fbzlPJStjU-nJ1SMbNf8_SdW_Fm">google drive</a> and download the most recent build.</p>
+    <p>Once have you haved downloaded the zip, extract it.</p>
+    <p>Then go inside of it and drag the Custom Stuff's folder into M:PN's data directory.</p>
+    <p>Then you can drag the files from the managed folder into M:PN's managed folder.</p>
+    <p>If everything worked you should see Not Enough Madness (version) in the bottom right of the main menu.</p>
     <h2>Libaries using NEM</h2>
-    <p>Soon after NEM was made tools were created that allowed you to use NEM to it's fullest potential</p>
+    <p>Soon after NEM was made tools were created that allowed you to use NEM to it's fullest potential.</p>
     <p>Some examples are:</p>
     <ul>
         <li><a href="/articles/Dossier">Dossier</a></li>
@@ -48,7 +50,7 @@
     </ul>
     <div class="sources">
         <h2>Sources</h2>
-        <p>DarkSignal (thanks for answering my questions)</p>
+        <p>DarkSignal (thanks for answering my questions).</p>
     </div>
 </div>
 <style>
