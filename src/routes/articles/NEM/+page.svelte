@@ -18,8 +18,11 @@
     <h2>What is NEM</h2>
     <p>NEM is a tool made by XDefault and <a href="/articles/DarkSignal">DarkSignal</a> that allows modders to create their own characters, origins, etc. As well as the ability to replace maps.</p>
     <p>NEM was started by XDefault in late 2019 and has been getting constant updates as of {getDate()}.</p>
-    <p>One year later in 2/19/2020 DarkSignal would start working on it. Using his knowledge of stat cards he managed to add custom characters, origins, etc. to NEM.</p>
-    <p>XDefault has also added freecam, keybinds, and has prototyped a unity scene editor for NEM</p>
+    <p>XDefault has also added freecam, keybinds, and has prototyped a unity scene editor for NEM. He also prototyped the orginal system for custom characters.</p>
+    <p>In 2/19/2020 DarkSignal would start working on NEM</p>
+    <p>DarkSignal would soon make it so that json files where used to store custom stuff instead of txt files.</p>
+    <p>Soon DarkSignal would expand the prototype to work for origins, factions, etc.</p>
+    <p>The most recent version of NEM is v53 which added NG+ along with custom factions.</p>
     <h2>Installation</h2>
     <p>To install NEM go to it's <a href="https://drive.google.com/drive/folders/1COW73fbzlPJStjU-nJ1SMbNf8_SdW_Fm">google drive</a> and download the most recent build.</p>
     <p>Once have you haved downloaded the zip, extract it.</p>
