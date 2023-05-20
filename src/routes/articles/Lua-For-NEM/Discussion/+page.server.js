@@ -7,6 +7,7 @@ export const actions = {
     default: async ({request}) => {
         const formData = await request.formData();
         const message = formData.get("message");
+        if(message === "") return null;
         const currentMessages = await db.get("Lua-For-NEM");
         if(currentMessages === null) {
             await db.put({

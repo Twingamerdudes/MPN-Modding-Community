@@ -1,3 +1,4 @@
+
 <script>
     let articles = ["/articles/NEM", "articles/NEM/StatCard_API", "/articles/Dossier", "/articles/Lua-For-NEM"]
     function formatArticle(article){
@@ -15,7 +16,6 @@
         return formattedArticles
     }
 </script>
-
 <h1>Home</h1>
 <div class="content">
     <p>Welcome fellow modder, here you will find resources to modding M:PN.</p>

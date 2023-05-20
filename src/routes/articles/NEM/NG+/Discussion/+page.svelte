@@ -2,8 +2,12 @@
     export let data;
 </script>
 
-<h1>General Discussion</h1>
-<p>Talk about M:PN Modding here!</p>
+<h1>NG+ Discussion</h1>
+<div class="links">
+    <a href="/articles/NEM/NG+">Article</a>
+    <a href="/articles/NEM/NG+/Discussion">Discussion</a>
+</div>
+<p>Discuss the article with your fellow peers</p>
 <p><b>Beware of impersonators, if someone says they are XDefault, DarkSignal, etc. chances are, they aren't.</b></p>
 <div class="content">
     <form action="#" method="post">
@@ -21,6 +25,16 @@
     {/if}
 </div>
 <style>
+   .links{
+        text-align: center;
+    }
+    .links a{
+        font-size: 15px;
+        margin: 0;
+        padding: 0;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
     h1{
         text-align: center;
         font-size: 50px;

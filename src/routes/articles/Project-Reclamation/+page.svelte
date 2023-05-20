@@ -10,7 +10,7 @@
 <div class="content">
     <b class="warning">Warning, this contains spoliers to M:PN and Project Reclamation!!!</b>
     <h2>What is Project Nexus Reclamation</h2>
-    <p>Project Nexus Reclamation or PNR for short is a mod that is planned to be made by DarkSignal.</p>
+    <p>Project Nexus Reclamation or PNR for short is a mod that is planned to be made by <a href="/articles/DarkSignal">DarkSignal</a>.</p>
     <p>The mod was announced on Augest 7th, 2020, along with the announcement of Dossier being repurposed for NEM.</p>
     <p>As of right now, the mod is too big in scope to build using NEM but in the future, when Swain releases official modding tools, it might be worked on.</p>
     <h2>Elements of the mod</h2>
@@ -33,7 +33,7 @@
     <div class="sources">
         <h2>Sources</h2>
         <p>DarkSignal (thanks for answering my questions).</p>
-        <a href="https://darksignal.newgrounds.com/news/post/1110099">Newgrounds announcement the development of Project Nexus Reclamation</a>
+        <a href="https://DarkSignal.newgrounds.com/news/post/1110099">Newgrounds announcement the development of Project Nexus Reclamation</a>
         <br>
         <br>
         <a href="https://drive.google.com/file/d/1oR-eqM8T1fgsVCh5gHB4MO1kpYtXduhV/view">Project Nexus Reclamation pdf sheet</a>

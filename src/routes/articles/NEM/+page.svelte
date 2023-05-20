@@ -16,7 +16,7 @@
 
 <div class="content">
     <h2>What is NEM</h2>
-    <p>NEM is a tool made by XDefault and DarkSignal that allows modders to create their own characters, origins, etc. As well as the ability to replace maps.</p>
+    <p>NEM is a tool made by XDefault and <a href="/articles/DarkSignal">DarkSignal</a> that allows modders to create their own characters, origins, etc. As well as the ability to replace maps.</p>
     <p>NEM was started by XDefault in late 2019 and has been getting constant updates as of {getDate()}.</p>
     <p>One year later in 2/19/2020 DarkSignal would start working on it. Using his knowledge of stat cards he managed to add custom characters, origins, etc. to NEM.</p>
     <p>XDefault has also added freecam, keybinds, and has prototyped a unity scene editor for NEM</p>

@@ -9,7 +9,7 @@
 </div>
 <div class="content">
     <h2>Introduction to Dossier</h2>
-    <p>Dossier is a tool made by DarkSignal that allows easier writing of NEM Mods.</p>
+    <p>Dossier is a tool made by <a href="/articles/DarkSignal">DarkSignal</a> that allows easier writing of NEM Mods.</p>
     <p>It mostly specializes in JSON editing and has features for auto completion.</p>
     <p>Dossier had started production in summer of 2019 and was officially released on November of 2019.</p>
     <p>One year later it was repurposed for NEM Modding on the 17th of Augest, 2020.</p>
@@ -27,8 +27,8 @@
     </ul>
     <div class="sources">
         <h2>Sources</h2>
-        <p>DarkSignal (thanks for answering my questions)</p>
-        <a href="https://darksignal.newgrounds.com/news/post/1110099">Newgrounds announcement of Dossier conversion to NEM.</a>
+        <p>DarkSignal(thanks for answering my questions)</p>
+        <a href="https://DarkSignal.newgrounds.com/news/post/1110099">Newgrounds announcement of Dossier conversion to NEM.</a>
     </div>
 </div>
 <style>

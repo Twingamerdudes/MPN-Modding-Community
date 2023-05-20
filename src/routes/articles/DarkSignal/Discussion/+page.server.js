@@ -8,7 +8,7 @@ export const actions = {
         const formData = await request.formData();
         const message = formData.get("message");
         if(message === "") return null;
-        const currentMessages = await db.get("Dossier");
+        const currentMessages = await db.get("DarkSignal");
         if(currentMessages === null) {
             await db.put({
                 messages: [
@@ -17,7 +17,7 @@ export const actions = {
                         user: "Anonymous User"
                     }
                 ],
-                key: "Dossier"
+                key: "DarkSignal"
             })
         }
         else{
@@ -29,13 +29,13 @@ export const actions = {
                         user: "Anonymous User"
                     }
                 ]
-            }, "Dossier")
+            }, "DarkSignal")
         }
 
     }
 }
 export async function load({ params }) {
-    const messages = await db.get("Dossier")
+    const messages = await db.get("DarkSignal")
     return {
         messages
     };

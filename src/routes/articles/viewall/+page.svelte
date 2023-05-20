@@ -1,7 +1,14 @@
 <script>
-    let articles = ["/articles/NEM", "articles/NEM/StatCard_API", "/articles/Dossier", "/articles/Lua-For-NEM", "/articles/Project-Reclamation"]
+    let articles = ["/articles/NEM",
+    "/articles/NEM/StatCard_API",
+    "/articles/NEM/NG+",
+    "/articles/Dossier", 
+    "/articles/Lua-For-NEM", 
+    "/articles/Project-Reclamation",
+    "/articles/DarkSignal"]
     function formatArticle(article){
-        let articleName = article.split("/")[2]
+        //get last index
+        let articleName = article.substring(article.lastIndexOf("/") + 1)
         let articlePath = article
         articleName = articleName.replaceAll("-", " ")
         return {name: articleName, path: articlePath}
@@ -20,7 +27,7 @@
 <div class="content">
     <ul>
         {#each formatAllArticles(articles) as article}
-            {#if article.name == "StatCard_API"}
+            {#if article.name == "StatCard_API" || article.name == "NG+"}
                 <ul>
                     <li><a href={article.path}>{article.name}</a></li>
                 </ul>
