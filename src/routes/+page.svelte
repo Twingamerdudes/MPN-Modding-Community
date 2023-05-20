@@ -34,6 +34,9 @@
     </ul>
     <p>Or you can check out all of our <a href="/articles/viewall">Articles</a></p>
     <p>We also have our own <a href="/discussion">forum</a> where you can chat with other people!</p>
+    <footer>
+        <p>And yes, NEM is updated</p>
+    </footer>
 </div>
 <style>
     h1{
@@ -48,5 +51,11 @@
         background-color: #242424;
         padding: 1em;
         border: 5px solid #333333;
+    }
+    
+    footer p{
+        margin-top: 20px;
+        text-align: center;
+        font-size: 15px;
     }
 </style>
