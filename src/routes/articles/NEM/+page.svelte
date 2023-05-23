@@ -17,8 +17,9 @@
 <div class="content">
     <h2>What is NEM</h2>
     <p>NEM is a tool made by XDefault and <a href="/articles/DarkSignal">DarkSignal</a> that allows modders to create their own characters, origins, etc. As well as the ability to replace maps.</p>
+    <h2>History</h2>
     <p>NEM was started by XDefault in late 2019 and has been getting constant updates as of {getDate()}.</p>
-    <p>XDefault has also added freecam, keybinds, and has prototyped a unity scene editor for NEM. He also prototyped the orginal system for custom characters.</p>
+    <p>XDefault has also added freecam, keybinds, and has prototyped a unity scene editor for NEM. He also prototyped the original system for custom characters.</p>
     <p>In 2/19/2020 DarkSignal would start working on NEM</p>
     <p>DarkSignal would soon make it so that json files where used to store custom stuff instead of txt files.</p>
     <p>Soon DarkSignal would expand the prototype to work for origins, factions, etc.</p>
@@ -48,7 +49,7 @@
     <h2>Random facts</h2>
     <ul>
         <li>NEM used to use txt to process custom content into the game before switching to JSON.</li>
-        <li>Getting json files that could be read by dossier orginally required running a java program that would read the games data to get certain info. It was removed in version 50 of NEM and has been replaced by the FileReader Class.</li>
+        <li>Getting json files that could be read by dossier originally required running a java program that would read the games data to get certain info. It was removed in version 50 of NEM and has been replaced by the FileReader Class.</li>
         <li>Both creators were beta-testers for M:PN allowing them to start production of the mod before the game was fully released!</li>
     </ul>
     <div class="sources">

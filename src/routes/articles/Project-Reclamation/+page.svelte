@@ -22,7 +22,7 @@
         <li>New lose conditions like losing your entire squad and infantry.</li>
     </ul>
     <h2>Story</h2>
-    <p>You play after the events of the orginal M:PN where Project Nexus has been destroyed.</p>
+    <p>You play after the events of the original M:PN where Project Nexus has been destroyed.</p>
     <p>As a result a new group called NEXT has been created to protect what's been salvaged of it.</p>
     <p>Meanwhile the MERC have launched a uprising in the city. They now have new training and are ready to fight the NEXT.</p>
     <p>A lot of the story is unknown simply because the mod hasn't released yet. This article will probably be updated as time goes on.</p>

@@ -2,10 +2,12 @@
     let articles = ["/articles/NEM",
     "/articles/NEM/StatCard_API",
     "/articles/NEM/NG+",
+    "/articles/NEM/NG+GUI",
     "/articles/Dossier", 
     "/articles/Lua-For-NEM", 
     "/articles/Project-Reclamation",
-    "/articles/DarkSignal"]
+    "/articles/DarkSignal",
+    "/articles/Twingamerdudes"]
     function formatArticle(article){
         //get last index
         let articleName = article.substring(article.lastIndexOf("/") + 1)
@@ -30,6 +32,10 @@
             {#if article.name == "StatCard_API" || article.name == "NG+"}
                 <ul>
                     <li><a href={article.path}>{article.name}</a></li>
+                </ul>
+            {:else if article.name == "NG+GUI"}
+                <ul>
+                    <li><a href={article.path}>NG+ GUI</a></li>
                 </ul>
             {:else}
                 <li><a href={article.path}>{article.name}</a></li>

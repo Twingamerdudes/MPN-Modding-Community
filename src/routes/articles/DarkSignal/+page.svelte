@@ -1,5 +1,5 @@
 <script>
-    import dossier from '$lib/images/Dossier.png';
+
 </script>
 
 <h1>DarkSignal</h1>
