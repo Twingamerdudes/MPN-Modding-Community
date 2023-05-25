@@ -71,10 +71,13 @@
         font-size: 15px;
     }
 
-    .image{
+    .image {
         background-color: #333333;
         padding: 20px;
         text-align: center;
-        width: 1000px;
+        max-width: 100%;
+    }
+    .image img{
+        max-width: 100%;
     }
 </style>
