@@ -9,7 +9,7 @@
 </div>
 <div class="content">
     <p>Twingamerdudes is the creator of this site and is most known for his mod Lua for NEM.</p>
-    <p>He has also started side projects like NG+ GUI and NG++.</p>
+    <p>He has also started side projects like NG+ GUI and NG++ (has now been fused with Lua for NEM).</p>
     <h2>History</h2>
     <p>He started modding M:PN in late October of 2022 with basic personal mods.</p>
     <p>In April of 2023 he started getting into NEM and was disappointed with the lack of programming language implementation that would allow for the changing of the game in real time (yes, I'm a nerd).</p>

@@ -5,6 +5,7 @@
     "/articles/NEM/NG+GUI",
     "/articles/Dossier", 
     "/articles/Lua-For-NEM", 
+    "/articles/Lua-For-NEM/NG++", 
     "/articles/Project-Reclamation",
     "/articles/DarkSignal",
     "/articles/Twingamerdudes"]
@@ -29,7 +30,7 @@
 <div class="content">
     <ul>
         {#each formatAllArticles(articles) as article}
-            {#if article.name == "StatCard_API" || article.name == "NG+"}
+            {#if article.name == "StatCard_API" || article.name == "NG+" || article.name == "NG++"}
                 <ul>
                     <li><a href={article.path}>{article.name}</a></li>
                 </ul>
