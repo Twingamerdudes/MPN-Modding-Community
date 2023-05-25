@@ -12,6 +12,7 @@
     <p>Lua for NEM is a library that is built ontop of NEM that adds Lua support.</p>
     <p>Lua is a programming language that can be embeded into almost anything including NEM.</p>
     <p>Lua for NEM is created by Twingamerdudes and was released on 4/23/2023.</p>
+    <p>Lua for NEM also has a feature called <a href="/articles/NG++">NG++</a> which expands the capabilities of NG+</p>
     <h2>Installation</h2>
     <blockquote>
         First drag the Assembly-CSharp.dll and MoonSharp.Interpreter.dll into (your M:PN folder)/Madness Project Nexus_Data/Managed folder.
