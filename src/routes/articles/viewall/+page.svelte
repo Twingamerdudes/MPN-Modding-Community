@@ -8,7 +8,8 @@
     "/articles/Lua-For-NEM/NG++", 
     "/articles/Project-Reclamation",
     "/articles/DarkSignal",
-    "/articles/Twingamerdudes"]
+    "/articles/Twingamerdudes",
+    "/articles/Zed-Survival"]
     function formatArticle(article){
         //get last index
         let articleName = article.substring(article.lastIndexOf("/") + 1)
