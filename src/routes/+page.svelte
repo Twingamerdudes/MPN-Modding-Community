@@ -35,7 +35,7 @@
     <p>Or you can check out all of our <a href="/articles/viewall">Articles</a></p>
     <p>We also have our own <a href="/discussion">forum</a> where you can chat with other people!</p>
     <footer>
-        <p>And yes, NEM is updated</p>
+        <p>And no, NEM is NOT updated</p>
     </footer>
 </div>
 <style>
